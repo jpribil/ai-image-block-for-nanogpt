@@ -1,8 +1,8 @@
-=== AI Image Block (NanoGPT) ===
+=== AI Image Block for NanoGPT ===
 Contributors: jiri
 Requires at least: 7.0
 Requires PHP: 7.4
-Stable tag: 0.1.1
+Stable tag: 0.1.2
 License: GPL-2.0-or-later
 License URI: https://spdx.org/licenses/GPL-2.0-or-later.html
 
@@ -21,6 +21,9 @@ Requires the WordPress AI Client (WordPress 7.0+) and the companion "nano-gpt.co
 3. Activate the plugin and ensure the NanoGPT provider plugin is active with an API key.
 
 == Changelog ==
+
+= 0.1.2 =
+* Rename the plugin to "AI Image Block for NanoGPT" to follow the WordPress.org "X for Y" naming guideline.
 
 = 0.1.1 =
 * Pre-fill the block's model and image size from the NanoGPT provider's configured defaults (Settings > NanoGPT).

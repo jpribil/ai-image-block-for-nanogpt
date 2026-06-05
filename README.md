@@ -1,4 +1,4 @@
-# AI Image Block (NanoGPT)
+# AI Image Block for NanoGPT
 
 A Gutenberg block that generates an image with [NanoGPT](https://nano-gpt.com/) through the WordPress AI Client — with model selection, image size, and a live price estimate. Always generates **one** image.
 

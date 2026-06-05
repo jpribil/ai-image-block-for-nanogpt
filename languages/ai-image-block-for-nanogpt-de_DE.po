@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: AI Image Block (NanoGPT) 0.1.0\n"
+"Project-Id-Version: AI Image Block for NanoGPT 0.1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-04 00:00+0000\n"
 "PO-Revision-Date: 2026-06-04 00:00+0000\n"
