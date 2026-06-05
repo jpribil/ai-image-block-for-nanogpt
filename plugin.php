@@ -6,7 +6,7 @@
  * Description: Gutenberg block that generates an image with NanoGPT from a prompt, model, and size, and stores the generation parameters for later regeneration.
  * Requires at least: 7.0
  * Requires PHP: 7.4
- * Version: 0.1.3
+ * Version: 0.1.4
  * Author: Jiri
  * License: GPL-2.0-or-later
  * License URI: https://spdx.org/licenses/GPL-2.0-or-later.html
