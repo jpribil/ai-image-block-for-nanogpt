@@ -1,8 +1,10 @@
 === AI Image Block for NanoGPT ===
 Contributors: jiri
+Tags: ai, nanogpt, image-generation, gutenberg, block
 Requires at least: 7.0
+Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 0.1.2
+Stable tag: 0.1.3
 License: GPL-2.0-or-later
 License URI: https://spdx.org/licenses/GPL-2.0-or-later.html
 
@@ -21,6 +23,9 @@ Requires the WordPress AI Client (WordPress 7.0+) and the companion "nano-gpt.co
 3. Activate the plugin and ensure the NanoGPT provider plugin is active with an API key.
 
 == Changelog ==
+
+= 0.1.3 =
+* Add Tags and Tested up to headers to the readme for the WordPress.org plugin directory.
 
 = 0.1.2 =
 * Rename the plugin to "AI Image Block for NanoGPT" to follow the WordPress.org "X for Y" naming guideline.
