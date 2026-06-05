@@ -1,0 +1,53 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "nanogpt/ai-image",
+  "version": "0.1.1",
+  "title": "AI Image (NanoGPT)",
+  "category": "media",
+  "icon": "format-image",
+  "description": "Generate an image with NanoGPT from a prompt, model, and size.",
+  "keywords": [
+    "ai",
+    "image",
+    "nanogpt",
+    "generate"
+  ],
+  "textdomain": "ai-image-block-for-nanogpt",
+  "supports": {
+    "html": false,
+    "align": [
+      "left",
+      "center",
+      "right",
+      "wide",
+      "full"
+    ]
+  },
+  "attributes": {
+    "attachmentId": {
+      "type": "number"
+    },
+    "url": {
+      "type": "string"
+    },
+    "alt": {
+      "type": "string",
+      "default": ""
+    },
+    "prompt": {
+      "type": "string",
+      "default": ""
+    },
+    "model": {
+      "type": "string",
+      "default": ""
+    },
+    "size": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css"
+}

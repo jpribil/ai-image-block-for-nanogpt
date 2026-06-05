@@ -1,0 +1,21 @@
+{
+	"name": "ai-image-block-for-nanogpt",
+	"version": "0.1.0",
+	"description": "Gutenberg block that generates an image with NanoGPT from a prompt, model, and size.",
+	"private": true,
+	"license": "GPL-2.0-or-later",
+	"scripts": {
+		"build": "wp-scripts build",
+		"start": "wp-scripts start",
+		"lint:js": "wp-scripts lint-js"
+	},
+	"devDependencies": {
+		"@wordpress/api-fetch": "^7.47.0",
+		"@wordpress/block-editor": "^15.20.0",
+		"@wordpress/blocks": "^15.20.0",
+		"@wordpress/components": "^34.0.0",
+		"@wordpress/element": "^7.0.0",
+		"@wordpress/i18n": "^6.20.0",
+		"@wordpress/scripts": "^32.3.0"
+	}
+}

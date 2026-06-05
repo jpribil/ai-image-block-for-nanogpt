@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Image Block (NanoGPT) 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-04 00:00+0000\n"
+"PO-Revision-Date: 2026-06-04 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Text Domain: ai-image-block-for-nanogpt\n"
+
+msgid "The WordPress AI Client is not available."
+msgstr "The WordPress AI Client is not available."
+
+msgid "A prompt is required."
+msgstr "A prompt is required."
+
+msgid "A model is required."
+msgstr "A model is required."
+
+msgid "The generated image contained no data."
+msgstr "The generated image contained no data."
+
+msgid "The generated image could not be decoded."
+msgstr "The generated image could not be decoded."
+
+msgid "Could not create a temporary file for the image."
+msgstr "Could not create a temporary file for the image."
+
+msgid "Could not write the generated image to disk."
+msgstr "Could not write the generated image to disk."
+
+msgid "The generated image had no URL."
+msgstr "The generated image had no URL."
+
+msgid "Select a model…"
+msgstr "Select a model…"
+
+msgid "Provider default"
+msgstr "Provider default"
+
+msgid "Prompt"
+msgstr "Prompt"
+
+msgid "Describe the image you want to create."
+msgstr "Describe the image you want to create."
+
+msgid "Model"
+msgstr "Model"
+
+msgid "Image size"
+msgstr "Image size"
+
+msgid "Choose Provider default to let NanoGPT decide."
+msgstr "Choose Provider default to let NanoGPT decide."
+
+msgid "Estimated price:"
+msgstr "Estimated price:"
+
+msgid "per image"
+msgstr "per image"
+
+msgid "Could not load the model list."
+msgstr "Could not load the model list."
+
+msgid "Image generation failed."
+msgstr "Image generation failed."
+
+msgid "Generation settings"
+msgstr "Generation settings"
+
+msgid "Regenerate"
+msgstr "Regenerate"
+
+msgid "AI Image (NanoGPT)"
+msgstr "AI Image (NanoGPT)"
+
+msgid "Describe the image, pick a model and size, then generate."
+msgstr "Describe the image, pick a model and size, then generate."
+
+msgid "Generate image"
+msgstr "Generate image"

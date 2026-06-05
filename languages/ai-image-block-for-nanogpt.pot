@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Image Block (NanoGPT) 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-04 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Text Domain: ai-image-block-for-nanogpt\n"
+
+msgid "The WordPress AI Client is not available."
+msgstr ""
+
+msgid "A prompt is required."
+msgstr ""
+
+msgid "A model is required."
+msgstr ""
+
+msgid "The generated image contained no data."
+msgstr ""
+
+msgid "The generated image could not be decoded."
+msgstr ""
+
+msgid "Could not create a temporary file for the image."
+msgstr ""
+
+msgid "Could not write the generated image to disk."
+msgstr ""
+
+msgid "The generated image had no URL."
+msgstr ""
+
+msgid "Select a model…"
+msgstr ""
+
+msgid "Provider default"
+msgstr ""
+
+msgid "Prompt"
+msgstr ""
+
+msgid "Describe the image you want to create."
+msgstr ""
+
+msgid "Model"
+msgstr ""
+
+msgid "Image size"
+msgstr ""
+
+msgid "Choose Provider default to let NanoGPT decide."
+msgstr ""
+
+msgid "Estimated price:"
+msgstr ""
+
+msgid "per image"
+msgstr ""
+
+msgid "Could not load the model list."
+msgstr ""
+
+msgid "Image generation failed."
+msgstr ""
+
+msgid "Generation settings"
+msgstr ""
+
+msgid "Regenerate"
+msgstr ""
+
+msgid "AI Image (NanoGPT)"
+msgstr ""
+
+msgid "Describe the image, pick a model and size, then generate."
+msgstr ""
+
+msgid "Generate image"
+msgstr ""
