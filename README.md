@@ -4,6 +4,8 @@ A Gutenberg block that generates an image with [NanoGPT](https://nano-gpt.com/) 
 
 > 🧩 **Requires the companion provider:** **[nano-gpt.com AI (provider)](https://github.com/jpribil/ai-provider-for-nanogpt)** must be installed and active — it registers NanoGPT with the WordPress AI Client and stores your API key and default model/size (which this block pre-fills). These two plugins are designed to work together: the provider is the backend, this block is the editor UI.
 
+> 💸 **Affiliate link (optional):** signing up via **[nano-gpt.com/r/VLX8bWbQ](https://nano-gpt.com/r/VLX8bWbQ)** supports this plugin's author at no extra cost to you. **This is an affiliate link and is entirely optional** — if you'd rather not use it, the plain link works exactly the same: **[nano-gpt.com](https://nano-gpt.com/)**.
+
 ## Requirements
 
 - WordPress 7.0+ (bundles the AI Client).
